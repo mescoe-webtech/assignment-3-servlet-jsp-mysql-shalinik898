@@ -1,0 +1,101 @@
+h1
+{
+	text-align: center;
+  color:brown;
+  font-family:fantasy;
+  font-size: 60px;
+  border: dashed;
+
+}
+
+#d1
+{	
+	color:maroon;
+	text-align: center;
+	font-family: sans-serif;
+	font-weight: 700;
+
+}
+
+body
+{
+	
+	background-image: url("backgroundimage.jpg");
+	height: 100%; 
+
+  background-position: center;
+  background-repeat: y-repeat;
+  background-size: 100%;
+	
+}
+html, body {
+    height:100%;
+} 
+
+#d2
+{
+	
+	text-align: center;
+	font-size: 30px;
+	background-color: brown;
+
+}
+
+#topnav {
+	color:white;
+ 
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: brown;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: blue;
+}
+
+#login1
+{	
+	font-size: 30px;
+	background-color: brown;
+	text-align: center;
+	color: white;
+	font-style: italic;
+	background-position: center;
+        
+
+
+}
+
+ button { 
+        background-color: black; 
+        color: white; 
+        
+        font-size: 20px;
+    } 
+    
+    /* set a hover effect for the button*/ 
+    button:hover { 
+        opacity: 0.8; 
+    }
+
+img{
+	height: 10%;
+	width: 10%;
+}
